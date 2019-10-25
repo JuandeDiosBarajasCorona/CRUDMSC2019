@@ -3,14 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/src/java/controller/Controlador.java</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/web/WEB-INF/jsp/index.jsp</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/web/WEB-INF/applicationContext.xml</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/web/WEB-INF/jsp/agregar.jsp</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/web/WEB-INF/dispatcher-servlet.xml</file>
             <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/src/java/conexion/Conexion.java</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/web/redirect.jsp</file>
-            <file>file:/C:/Users/Juande/Documents/NetBeansProjects/CRUDMSC2019/src/java/controller/Empleado.java</file>
         </group>
     </open-files>
 </project-private>
